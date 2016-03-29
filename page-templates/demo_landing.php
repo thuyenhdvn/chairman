@@ -71,7 +71,7 @@ var chairman_menu_number = <?php if(isset($chairman_opt['vertical_menu_items']))
 										<div class="global-row">
 											<div class="global-cell">
 												<?php if( isset($chairman_opt['logo_main']['url']) ){ ?>
-													<div class="logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img src="<?php echo esc_url($chairman_opt['logo_main']['url']); ?>" alt="" /></a></div>
+													<div class="logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img src="<?php echo get_template_directory_uri() . '/images/landing_logo.png'; ?>" alt="<?php bloginfo( 'name' ); ?>" /></a></div>
 												<?php
 												} else { ?>
 													<h1 class="logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
