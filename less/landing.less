@@ -2,7 +2,7 @@
 
 .header-container {
 	&.landing {
-		border-bottom: 1px solid #fff;
+		border-bottom: 1px solid rgba(255,255,255,0.2);
 		position: absolute;
 		top: 0;
 		left: 0;
@@ -41,6 +41,11 @@
 					display: inline-block;
 					vertical-align: middle; 
 				}
+			}
+			.header-sticky {
+				&.ontop {
+					background: #1a1c27;
+				} 
 			}
 		}
 		.vmenu-toggler {
@@ -263,6 +268,7 @@
 		}
 	}
 	.landing-static2 {
+	    background-attachment: fixed;
 		.content {
 			text-align: center;
 			.text {
