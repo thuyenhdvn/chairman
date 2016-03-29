@@ -189,7 +189,7 @@
     width: 100%;
   }
   .mobile-menu .mobile-menu-container ul.nav-menu > li > a {
-    border-top: 1px solid #f1f0f0;
+    border-top: 1px solid #e1e1e1;
     color: #999999;
     display: block;
     float: left;
@@ -304,7 +304,7 @@
   }
   .main-container .testimonials-container .box-testimonial .vc_column-inner > .wpb_wrapper {
     padding: 30px 20px;
-    border: 1px solid #f1f0f0;
+    border: 1px solid #e1e1e1;
   }
   #secondary .sidebar-border.left {
     border-right: none;

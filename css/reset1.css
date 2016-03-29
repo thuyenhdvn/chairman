@@ -66,7 +66,7 @@ li > ol {
 }
 table {
   border-collapse: separate;
-  border-color: #f1f0f0;
+  border-color: #e1e1e1;
   border-spacing: 0;
   border-style: solid;
   border-width: 1px 0 0 1px;
@@ -75,8 +75,8 @@ table {
 }
 table th,
 table td {
-  border-bottom: 1px solid #f1f0f0;
-  border-right: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
+  border-right: 1px solid #e1e1e1;
   padding: 10px;
 }
 caption {

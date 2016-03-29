@@ -2,7 +2,7 @@
   margin-bottom: 0;
 }
 .main-container.full-width blockquote {
-  background: #ffffff;
+  background: #f3f3f3;
   border: none;
   font-size: 14px;
   font-style: italic;
@@ -338,8 +338,8 @@
   margin-right: 5px;
 }
 .main-container .blog-page .entry-meta {
-  border-bottom: 1px solid #f1f0f0;
-  border-top: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
+  border-top: 1px solid #e1e1e1;
   color: #999999;
   float: left;
   font-family: Raleway, Arial, Helvetica, sans-serif;
@@ -461,7 +461,7 @@
 .main-container .blog-page .pagination a,
 .main-container .blog-page .pagination span {
   background: none;
-  border: 1px solid #f1f0f0;
+  border: 1px solid #e1e1e1;
   border-radius: 3px;
   float: none;
   margin: 0 5px;
@@ -554,7 +554,7 @@
 }
 .main-container .blog-page .comments-area .comments-title,
 .main-container .blog-page .comments-area .comment-reply-title {
-  border-bottom: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
   font-size: 13px;
   font-weight: 700;
   margin: 0 0 30px;
@@ -710,7 +710,7 @@
   width: 100%;
 }
 .main-container .blog-page .comments-area .comment-respond .comment-form #comment {
-  border: 1px solid #f1f0f0;
+  border: 1px solid #e1e1e1;
   width: 100%;
   height: 130px;
 }
@@ -723,8 +723,8 @@
   background: #fbaf5d;
 }
 .main-container .blog-page .nav-single {
-  border-bottom: 1px solid #f1f0f0;
-  border-top: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
+  border-top: 1px solid #e1e1e1;
   float: left;
   font-size: 13px;
   padding: 10px 0;
@@ -767,7 +767,7 @@
   background: #999999;
 }
 .main-container .blog-page .archive-header {
-  border-bottom: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
   margin-bottom: 30px;
 }
 .main-container .blog-page .archive-header span {
@@ -783,18 +783,18 @@
   margin-left: 82px;
 }
 .main-container .blog-page .author-info.archives .author-description h2 {
-  border-bottom: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
   margin: 0 0 10px;
 }
 .main-container .blog-page .attachment .navigation {
-  border-bottom: 1px solid #f1f0f0;
-  border-top: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
+  border-top: 1px solid #e1e1e1;
   margin: 0 0 25px;
   padding: 5px 0;
 }
 .main-container .blog-page.single .author-info {
   padding-bottom: 40px;
-  border-bottom: 1px solid #f1f0f0;
+  border-bottom: 1px solid #e1e1e1;
   margin-bottom: 40px;
 }
 .main-container .blog-page.single .relatedposts {
@@ -1137,7 +1137,7 @@
 }
 .main-container.default-page .comments-area .comments-title,
 .main-container.default-page .comments-area .comment-reply-title {
-  border-top: 1px solid #f1f0f0;
+  border-top: 1px solid #e1e1e1;
   font-size: 24px;
   margin: 0 0 50px;
   padding: 22px 0 0;
