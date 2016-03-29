@@ -3784,7 +3784,6 @@ button {
 }
 #secondary .widget.widget_recent_comments ul li {
   border-bottom: 1px solid #f1f0f0;
-  padding: 5px 0;
 }
 #secondary .widget.widget_recent_comments ul li a {
   float: none;
